@@ -4,4 +4,8 @@ public class calculator{
 		return a + b;
 	}
 
+	public double addition(int a, double b){
+		return a + b;
+	}
+
 }
